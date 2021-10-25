@@ -1,0 +1,5 @@
+export { ReactComponent as LockIcon } from './lock.svg'
+export { ReactComponent as OnionIcon } from './onion.svg'
+export { ReactComponent as Delimiter } from './delimiter.svg'
+export { ReactComponent as DottedCircleIcon } from './dottedCircle.svg'
+export { ReactComponent as LessonsSelectorBg } from './lessonsSelectorBg.svg'
